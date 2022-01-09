@@ -1,0 +1,354 @@
+{
+	"_embedded": {
+		"events": [{
+			"name": "Lucha Libre AAA presents Lucha Invading LA",
+			"type": "event",
+			"id": "vvG10Z4iiuR4Wa",
+			"test": false,
+			"url": "https://www.ticketmaster.com/lucha-libre-aaa-presents-lucha-invading-inglewood-california-09-30-2021/event/090056CB0DBD5F49",
+			"locale": "en-us",
+			"images": [{
+				"ratio": "16_9",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_RECOMENDATION_16_9.jpg",
+				"width": 100,
+				"height": 56,
+				"fallback": false
+			}, {
+				"ratio": "16_9",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_TABLET_LANDSCAPE_16_9.jpg",
+				"width": 1024,
+				"height": 576,
+				"fallback": false
+			}, {
+				"ratio": "3_2",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_ARTIST_PAGE_3_2.jpg",
+				"width": 305,
+				"height": 203,
+				"fallback": false
+			}, {
+				"ratio": "16_9",
+				"url": "https://s1.ticketm.net/dbimages/357561a.jpg",
+				"width": 205,
+				"height": 115,
+				"fallback": false
+			}, {
+				"ratio": "16_9",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+				"width": 2048,
+				"height": 1152,
+				"fallback": false
+			}, {
+				"ratio": "4_3",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_CUSTOM.jpg",
+				"width": 305,
+				"height": 225,
+				"fallback": false
+			}, {
+				"ratio": "3_2",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_TABLET_LANDSCAPE_3_2.jpg",
+				"width": 1024,
+				"height": 683,
+				"fallback": false
+			}, {
+				"ratio": "16_9",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_RETINA_LANDSCAPE_16_9.jpg",
+				"width": 1136,
+				"height": 639,
+				"fallback": false
+			}, {
+				"ratio": "3_2",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_RETINA_PORTRAIT_3_2.jpg",
+				"width": 640,
+				"height": 427,
+				"fallback": false
+			}, {
+				"ratio": "16_9",
+				"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_RETINA_PORTRAIT_16_9.jpg",
+				"width": 640,
+				"height": 360,
+				"fallback": false
+			}],
+			"distance": 4.45,
+			"units": "MILES",
+			"sales": {
+				"public": {
+					"startDateTime": "2019-06-21T19:00:00Z",
+					"startTBD": false,
+					"startTBA": false,
+					"endDateTime": "2021-10-01T01:00:00Z"
+				}
+			},
+			"dates": {
+				"start": {
+					"localDate": "2021-09-30",
+					"localTime": "18:00:00",
+					"dateTime": "2021-10-01T01:00:00Z",
+					"dateTBD": false,
+					"dateTBA": false,
+					"timeTBA": false,
+					"noSpecificTime": false
+				},
+				"timezone": "America/Los_Angeles",
+				"status": {
+					"code": "cancelled"
+				},
+				"spanMultipleDays": false
+			},
+			"classifications": [{
+				"primary": true,
+				"segment": {
+					"id": "KZFzniwnSyZfZ7v7nE",
+					"name": "Sports"
+				},
+				"genre": {
+					"id": "KnvZfZ7vAAk",
+					"name": "Wrestling"
+				},
+				"subGenre": {
+					"id": "KZazBEonSMnZfZ7vFna",
+					"name": "Wrestling"
+				},
+				"type": {
+					"id": "KZAyXgnZfZ7v7nI",
+					"name": "Undefined"
+				},
+				"subType": {
+					"id": "KZFzBErXgnZfZ7v7lJ",
+					"name": "Undefined"
+				},
+				"family": false
+			}],
+			"promoter": {
+				"id": "494",
+				"name": "PROMOTED BY VENUE",
+				"description": "PROMOTED BY VENUE / NTL / USA"
+			},
+			"promoters": [{
+				"id": "494",
+				"name": "PROMOTED BY VENUE",
+				"description": "PROMOTED BY VENUE / NTL / USA"
+			}],
+			"pleaseNote": "This event has been canceled. Refunds at Point of Purchase only. Internet & Phone orders will automatically be canceled & refunded.",
+			"priceRanges": [{
+				"type": "standard",
+				"currency": "USD",
+				"min": 30.0,
+				"max": 305.0
+			}],
+			"seatmap": {
+				"staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/090056CB0DBD5F49/staticImage?type=png&systemId=HOST"
+			},
+			"accessibility": {
+				"ticketLimit": 3
+			},
+			"ticketLimit": {
+				"info": "There is an 8 ticket limit per household."
+			},
+			"ageRestrictions": {
+				"legalAgeEnforced": false
+			},
+			"_links": {
+				"self": {
+					"href": "/discovery/v2/events/vvG10Z4iiuR4Wa?locale=en-us"
+				},
+				"attractions": [{
+					"href": "/discovery/v2/attractions/K8vZ917G150?locale=en-us"
+				}],
+				"venues": [{
+					"href": "/discovery/v2/venues/KovZpZAEkn6A?locale=en-us"
+				}]
+			},
+			"_embedded": {
+				"venues": [{
+					"name": "The Forum",
+					"type": "venue",
+					"id": "KovZpZAEkn6A",
+					"test": false,
+					"url": "https://www.ticketmaster.com/the-forum-tickets-inglewood/venue/73750",
+					"locale": "en-us",
+					"images": [{
+						"ratio": "3_1",
+						"url": "https://s1.ticketm.net/dam/v/52c/cc82c980-6a5d-4cee-9339-f382c7f5b52c_380251_SOURCE.jpg",
+						"width": 1500,
+						"height": 500,
+						"fallback": false
+					}, {
+						"ratio": "16_9",
+						"url": "https://s1.ticketm.net/dbimages/15787v.jpg",
+						"width": 205,
+						"height": 115,
+						"fallback": false
+					}],
+					"distance": 4.45,
+					"units": "MILES",
+					"postalCode": "90305",
+					"timezone": "America/Los_Angeles",
+					"city": {
+						"name": "Inglewood"
+					},
+					"state": {
+						"name": "California",
+						"stateCode": "CA"
+					},
+					"country": {
+						"name": "United States Of America",
+						"countryCode": "US"
+					},
+					"address": {
+						"line1": "3900 W Manchester Blvd."
+					},
+					"location": {
+						"longitude": "-118.341868",
+						"latitude": "33.9583"
+					},
+					"markets": [{
+						"name": "Los Angeles",
+						"id": "27"
+					}],
+					"dmas": [{
+						"id": 223
+					}, {
+						"id": 324
+					}, {
+						"id": 354
+					}, {
+						"id": 383
+					}],
+					"boxOfficeInfo": {
+						"openHoursDetail": "Box office Hours: The Forum Box Office is located on the West side (Prairie Avenue side) of the venue. The Box Office is open Monday through Friday from 11:00 am - 7:00 pm, Saturdays & Sundays (on event days only), opens 12 noon",
+						"acceptedPaymentDetail": "Cash, Visa, Mastercard, Discover, American Express. Photo ID is required for all credit card transactions.",
+						"willCallDetail": "Location: Box Office Will Call is only open on days of events. Will Call opens two (2) hours prior to the start of the show and closes (1) hour after the start of the show. Will Call tickets can be picked up on the night of the event only. Customers must have the actual credit card used to place the order, photo ID and their confirmation number. Tickets may not be dropped off or left for other guests."
+					},
+					"parkingDetail": "Parking fees vary per event. Disabled parking is located on all sides of the main Forum lot. Please have your CA State placard available for the attendants.",
+					"accessibleSeatingDetail": "Wheelchair and Disabled Seating Policy: Wheelchair and Transfer seating is reserved exclusively for patrons with accessible needs and their companions. Accessible seating is intended for use by an individual with a mobility disability or other disability who requires the accessible features of accessible seating due to a disability, and that individual's companions. The Forum and Madison Square Garden (MSG) reserve the right to investigate potential misuse of accessible seating and to take all appropriate action against individuals who fraudulently obtain tickets for accessible seating. Tickets for accessible seating legitimately purchased for the use by an individual with a disability may be sold or transferred to another individual under the same terms and conditions applicable to other tickets. However, ***In the event such ticket is transferred to a non-disabled individual, The Forum reserves the right to deny entry to the wheelchair seating area or transfer that individual to other available seating*** Purchase Wheelchair and Disabled Seating Tickets for people with accessible needs, subject to availability, may be purchased in several ways: 1) Call Ticketmaster at 800-745-3000 2) Order Online with Ticketmaster (select your event from the list to the left) 3) Visit The Forum Box Office (see box office hours above) 2) Call Forum Disabled Services Department at 888-609-7599 For additional information regarding accessibility at The Forum or to request an interpreted performance or any other accommodations, please call the Forum Disabled Services Department any weekday between 6:30am and 1:30pm PT. Accessible Restrooms Disabled and family restrooms are located on the concourse across from sections 209-210 and 227-228. On the floor, disabled restrooms are located in the hallways adjacent to the North Hospitality, Forum Club, and Chase Lounge. While disabled guests are provided preference at disabled restrooms, any guest may use these restrooms if they require that type of accommodation. Wheelchair Escorts For individuals who have limited mobility, the Forum can provide a wheelchair transport from a guest services location to their seating areas. Upon arrival at the Forum, please ask Guest Services for assistance. Please be aware Forum escort staff is unable to remain with guests for the performance, provide restroom or concessions assistance, nor are they permitted to escort guests into the parking lots, city streets, or surrounding area. If you require a wheelchair for the duration of the show, it is suggested you bring your own wheelchair to the venue. Wheelchair Storage Guests who wish to transfer to a fixed seat from their wheelchair or mobility device, can check their device at any Guest Services location. Claim checks will be issued and guests may pick up their wheelchair until 30 minutes after conclusion of the show.",
+					"generalInfo": {
+						"generalRule": "ARRIVE EARLY: Please arrive at least one-hour prior to show time. All bags, including purses, will be inspected prior to entry while all patrons will go through a screening process including the use of metal detectors and pat downs as needed. Please be mindful of traffic conditions and local street closures/construction. For a list of prohibited items, please visit www.thefabulousforum.com. No smoking of any substance and no electronic cigarettes are permitted in the Forum No recording devices are permitted No reentry No outside food or beverage is permitted There are no bag or coat check facilities Alcohol Management For most events at the Forum, alcoholic beverages are available for purchase. Staff is trained in the National Restaurant Association Training program. Alcohol sales will be limited to two alcoholic drinks per customer per transaction. Guests are not permitted to bring alcoholic beverages from outside the Forum and may not leave with alcohol purchased at the Forum. Management reserves the right to refuse the sale of alcohol to any guest. All guests may be required to show ID to purchase alcohol. Please be aware it is the policy of the Forum to require all guests who appear to be under forty (40) years of age or younger to present a valid form of ID with proof of age in order to purchase alcoholic beverages at the Forum. Pursuant to applicable state law, The Forum accepts only ID cards issued by a governmental agency that include a current description and picture of the person presenting it, which reasonably describes the person as to date of birth, weight, height, sex, and colors of eyes/hair. The Forum will not accept an ID that has been altered or is expired. We will also not accept a registration certificate issued under the Federal Selective Service Act.",
+						"childRule": "Events are all ages (unless noted). Everyone must have a ticket to enter the venue, regardless of age. For age restricted events a valid government issues ID will be required for entry."
+					},
+					"upcomingEvents": {
+						"_total": 33,
+						"ticketmaster": 33
+					},
+					"_links": {
+						"self": {
+							"href": "/discovery/v2/venues/KovZpZAEkn6A?locale=en-us"
+						}
+					}
+				}],
+				"attractions": [{
+					"name": "Lucha Libre AAA",
+					"type": "attraction",
+					"id": "K8vZ917G150",
+					"test": false,
+					"url": "https://www.ticketmaster.com/lucha-libre-aaa-tickets/artist/1222695",
+					"locale": "en-us",
+					"images": [{
+						"ratio": "16_9",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_EVENT_DETAIL_PAGE_16_9.jpg",
+						"width": 205,
+						"height": 115,
+						"fallback": false
+					}, {
+						"ratio": "16_9",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_RECOMENDATION_16_9.jpg",
+						"width": 100,
+						"height": 56,
+						"fallback": false
+					}, {
+						"ratio": "16_9",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_TABLET_LANDSCAPE_16_9.jpg",
+						"width": 1024,
+						"height": 576,
+						"fallback": false
+					}, {
+						"ratio": "3_2",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_ARTIST_PAGE_3_2.jpg",
+						"width": 305,
+						"height": 203,
+						"fallback": false
+					}, {
+						"ratio": "16_9",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+						"width": 2048,
+						"height": 1152,
+						"fallback": false
+					}, {
+						"ratio": "4_3",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_CUSTOM.jpg",
+						"width": 305,
+						"height": 225,
+						"fallback": false
+					}, {
+						"ratio": "3_2",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_TABLET_LANDSCAPE_3_2.jpg",
+						"width": 1024,
+						"height": 683,
+						"fallback": false
+					}, {
+						"ratio": "16_9",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_RETINA_LANDSCAPE_16_9.jpg",
+						"width": 1136,
+						"height": 639,
+						"fallback": false
+					}, {
+						"ratio": "3_2",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_RETINA_PORTRAIT_3_2.jpg",
+						"width": 640,
+						"height": 427,
+						"fallback": false
+					}, {
+						"ratio": "16_9",
+						"url": "https://s1.ticketm.net/dam/a/768/33724498-e230-44e5-9b97-7f931d38a768_1110761_RETINA_PORTRAIT_16_9.jpg",
+						"width": 640,
+						"height": 360,
+						"fallback": false
+					}],
+					"classifications": [{
+						"primary": true,
+						"segment": {
+							"id": "KZFzniwnSyZfZ7v7nE",
+							"name": "Sports"
+						},
+						"genre": {
+							"id": "KnvZfZ7vAAk",
+							"name": "Wrestling"
+						},
+						"subGenre": {
+							"id": "KZazBEonSMnZfZ7vFna",
+							"name": "Wrestling"
+						},
+						"type": {
+							"id": "KZAyXgnZfZ7v7nI",
+							"name": "Undefined"
+						},
+						"subType": {
+							"id": "KZFzBErXgnZfZ7v7lJ",
+							"name": "Undefined"
+						},
+						"family": false
+					}],
+					"upcomingEvents": {
+						"_total": 1,
+						"ticketmaster": 1
+					},
+					"_links": {
+						"self": {
+							"href": "/discovery/v2/attractions/K8vZ917G150?locale=en-us"
+						}
+					}
+				}]
+			}
+		}]
+	},
+	"_links": {
+		"self": {
+			"href": "/discovery/v2/events.json?geoPoint=9q5ckq4&radius=10&keyword=aaa"
+		}
+	},
+	"page": {
+		"size": 20,
+		"totalElements": 1,
+		"totalPages": 1,
+		"number": 0
+	}
+}

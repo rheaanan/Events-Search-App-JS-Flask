@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>	
+<link rel="stylesheet" href="form.css">
+<script src="main.js"></script>
+</head>
+<body>
+<div id="d_box">
+	<h1 id ="events"> Events Search </h1>
+	<hr>
+	<form id ="form">
+	  <label for="keyword">Keyword</label>
+	  <input class="form_element" type="text" id="keyword" name="fname" required/><br>
+	  <label for="category">Category:</label>
+	  <select id="category" class="form_element">
+	  <option value="default"  id="default_op" selected >Default</option>
+	  <option value="music">Music</option>
+	  <option value="sports">Sports</option>
+	  <option value="arts">Arts & Theatre</option>
+	  <option value="film">Film</option>
+	  <option value="misc">Miscellaneous</option>
+	  </select>
+	  <br>
+	  <label for="distance">Distance (miles)</label>
+	  <input class="form_element" type="text" id="distance" name="lname" pattern="[0-9 ]*" placeholder="10">
+	  <label for="from">from</label>
+	  <input type="radio" id="here" name="g_location" checked="checked">
+	  <label  for="here">Here</label><br>
+	  <input type="radio" id="g_location" name="g_location" value="location">
+	  <input class="form_element" type="text" id="location" name="location" placeholder="location" disabled required/><br>
+	  <button type="submit" value="submit" id = "search" disabled>Search</button>
+	  <button type="reset" value="clear" id="clear">Clear</button>
+
+	</form>
+</div>
+<div id="results_table" class="results">
+</div>
+<div id="info_table">
+	<div id="info_table_inside">
+	</div>
+</div>
+
+</body>
+</html>
+
+
